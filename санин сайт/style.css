@@ -1,0 +1,13 @@
+h1 {
+    background: rgb(255, 0, 0);
+}
+
+.paragraph-1 {
+    background: blue;
+    
+    color:rgb(255, 255, 255);
+}
+
+.paragraph-2 {
+    font-size: 72px;
+}
