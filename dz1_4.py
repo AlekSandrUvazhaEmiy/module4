@@ -6,3 +6,4 @@ def palendrom(enter):
     return False
 
 print(palendrom(enter))
+#теперь надо написать как я это сделал в коммите
