@@ -11,3 +11,10 @@ h1 {
 .paragraph-2 {
     font-size: 72px;
 }
+
+.paragraph-3 {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(89, 255, 130);
+}
